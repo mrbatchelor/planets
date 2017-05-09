@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Venis is far to humid
+=======
+A bit hot and cloudy.
+>>>>>>> 1378c50260de7e3f6a0246f0ae68e282fb247e55
